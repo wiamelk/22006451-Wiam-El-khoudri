@@ -6,9 +6,9 @@
 
 **Titre du Projet :** Analyse de la Santé Mentale dans le Secteur Technologique - Enquête OSMI (2014-2021)
 
-**Auteur :** [Votre nom]
+**Auteur :** Wiam El khoudri
 
-**Institution :** [Nom de l'institution]
+**Institution :** Encg settat
 
 **Date :** 20 décembre 2025
 
